@@ -1,0 +1,6 @@
+aws-cdk-lib==2.173.0
+constructs>=10.0.0,<11.0.0
+cdk-eks-karpenter
+aws-cdk.lambda-layer-kubectl-v31
+pyyaml
+pytest
